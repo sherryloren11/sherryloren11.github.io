@@ -21,7 +21,13 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+Text can be bold, Italic or <s>strikethrough<s>.
+  
+There should be whitespace between paragraphs.
+  
+There should be whitespace between paragraphs.  We recommend including a READ ONLY
+information about your project.
+
 
 [Link](url) and ![Image](src)
 ```
