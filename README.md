@@ -1,3 +1,7 @@
+theme:  jekyll-theme-merlot
+title:  Welcome to the Sherryloren11 homepage.
+description:  Feel free to bookmark this to keep an eye on my project updates.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sherryloren11/sherryloren11.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
